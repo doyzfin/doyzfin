@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/allfinefin" target="blank"><img src="https://img.shields.io/twitter/follow/allfinefin?logo=twitter&style=for-the-badge" alt="allfinefin" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript with the**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **react, next, express, node.js**
 
